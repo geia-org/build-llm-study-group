@@ -9,6 +9,3 @@ Este repositório contém o material produzido pelo grupo de estudos **GEIA**, c
 
 - [Capítulo 01 – Introdução às LLMs](Capitulo_01/resumo.md)
 
----
-
-> Feito com 💙 por Hugo Montenegro e a IA IVAN.
