@@ -8,4 +8,8 @@ Este repositório contém o material produzido pelo grupo de estudos **GEIA**, c
 ## 📚 Capítulos
 
 - [Capítulo 01 – Introdução às LLMs](Capitulo_01/resumo.md)
+- [Capítulo 01 – Introdução às LLMs - Caderno](Capitulo_01/LLM_CAP_01.ipynb)
+- [Capítulo 02 – Trabalhando com dados de texto](Capitulo_01/resumo.md)
+- [Capítulo 02 – Trabalhando com dados de texto - Caderno](Capitulo_01/LLM_CAP_02.ipynb)
+
 
